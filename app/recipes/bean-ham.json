@@ -1,0 +1,81 @@
+{
+    "title": "Bean And Ham Soup",
+    "recipeinfo": {
+        "blurb": "A great way to use leftover holiday ham.",
+        "genre": "Soup",
+        "author": "David Horton",
+        "yield": "10 servings",
+        "preptime": "Five or six hours"
+    },
+    "ingredientlist": [
+        {
+            "quantity": "1",
+            "unit": "lb.",
+            "fooditem": "dry navy beans"
+        },
+        {
+            "quantity": "1",
+            "fooditem": "medium onion",
+            "#text": ", diced"
+        },
+        {
+            "quantity": "2",
+            "unit": "cloves",
+            "fooditem": "garlic",
+            "#text": ", minced"
+        },
+        {
+            "quantity": "2",
+            "unit": "ribs",
+            "fooditem": "celery",
+            "#text": ", chopped"
+        },
+        {
+            "quantity": "3",
+            "fooditem": "carrots",
+            "#text": ", sliced"
+        },
+        {
+            "quantity": "3",
+            "fooditem": "plum (roma) tomatoes",
+            "#text": ", diced"
+        },
+        {
+            "quantity": "1",
+            "unit": "lb.",
+            "fooditem": "cooked ham scraps",
+            "#text": ", chopped"
+        },
+        {
+            "quantity": "6",
+            "unit": "C.",
+            "fooditem": "water"
+        },
+        {
+            "quantity": "1",
+            "fooditem": "ham bone"
+        },
+        {
+            "fooditem": [
+                "Salt",
+                "pepper"
+            ],
+            "#text": [
+                "and",
+                "to taste"
+            ]
+        }
+    ],
+    "preparation": {
+        "text": [
+            "Rinse the beans. Combine dry beans and 10 C of water in a",
+            "and bring to a boil. Remove from heat and let soak for two hours before continuing with the recipe. Use a",
+            "to drain the water from the beans and set aside. In the stockpot combine ham scraps, garlic, onion, celery and carrot. Sweat vegetables and ham over medium-low heat. There should be enough fat in the ham scraps to keep the veggies from sticking to the pan, but if not add a little vegetable oil. Once the onion becomes translucent add the tomatoes and cook down for a few minutes. When tomatoes are soft add 6 C. of water and stir to create a vegetable broth. Drain and rinse the beans. Add beans and ham bone to the vegetable broth. Simmer over low heat until beans are tender, about 2 to 3 hours. Stir occasionally. After beans are tender add salt and pepper to taste. Do not add salt before this as it can toughen the beans. Discard ham bone and skim off any oil that may be on the surface before serving."
+        ],
+        "equipment": [
+            "5-quart stockpot",
+            "strainer or colander"
+        ]
+    },
+    "serving": "Serve with rye rolls and apple slices on the side."
+}

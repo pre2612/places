@@ -1,0 +1,55 @@
+{
+    "title": "Margarita",
+    "recipeinfo": {
+        "blurb": "A delicious drink to be enjoyed with Mexican food.",
+        "author": "David Horton",
+        "yield": "1 margarita",
+        "preptime": "One minute"
+    },
+    "ingredientlist": [
+        {
+            "quantity": "1",
+            "unit": "oz.",
+            "fooditem": "Tequila"
+        },
+        {
+            "quantity": "1",
+            "unit": "oz.",
+            "fooditem": "Triple Sec"
+        },
+        {
+            "quantity": "1",
+            "unit": "oz.",
+            "fooditem": "Rose's lime juice"
+        },
+        {
+            "quantity": "1",
+            "unit": "oz.",
+            "fooditem": "Mrs. T's sour mix"
+        },
+        {
+            "quantity": "1",
+            "unit": "slice",
+            "fooditem": "lime"
+        },
+        [
+            "Course kosher salt"
+        ],
+        [
+            "Ice"
+        ]
+    ],
+    "preparation": {
+        "text": [
+            "Prepare a",
+            "by rubbing lime around the edge, rolling in salt and filling with ice. Combine Tequila, Triple Sec, lime juice and sour mix in a",
+            "and mix. Carefully pour into glass and garnish with slice of lime."
+        ],
+        "equipment": [
+            "margarita glass",
+            "shaker"
+        ]
+    },
+    "serving": "Serve with Mexican food. Always drink responsibly.",
+    "notes": "It is easy to expand the recipe to serve more people since the Tequila, Triple Sec, lime juice and sour mix are equal in proportion. For example, using 1 Cup of each ingredient would yield 8 margaritas since there are 8 ounces in a cup. See, your math teacher was right, you do need to know this ratio stuff!"
+}

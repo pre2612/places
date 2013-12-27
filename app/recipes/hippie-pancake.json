@@ -1,0 +1,58 @@
+{
+    "title": "Hippie Pancakes",
+    "recipeinfo": {
+        "blurb": "Socially conscious breakfast food.",
+        "author": "David Horton",
+        "yield": "12 to 16 small pancakes, enough for two hippies",
+        "preptime": "10 minutes"
+    },
+    "ingredientlist": [
+        {
+            "quantity": "1",
+            "unit": "C.",
+            "fooditem": "unbleached wheat blend flour"
+        },
+        {
+            "quantity": "2",
+            "unit": "tsp.",
+            "fooditem": "baking powder"
+        },
+        {
+            "quantity": "1",
+            "unit": "tsp.",
+            "fooditem": "unrefined sugar"
+        },
+        {
+            "quantity": "1/4",
+            "unit": "tsp.",
+            "fooditem": "coarse kosher salt"
+        },
+        {
+            "quantity": "1",
+            "#text": "free-range egg"
+        },
+        {
+            "quantity": "1 1/4",
+            "unit": "C.",
+            "fooditem": "hormone-free milk"
+        },
+        {
+            "quantity": "1",
+            "unit": "tsp.",
+            "fooditem": "organic vegetable oil"
+        }
+    ],
+    "preparation": {
+        "text": [
+            "Pre-heat griddle over medium heat. Combine dry ingredients in a",
+            ". Stir in egg, milk and oil. Use a large spoon or gravy ladle to transfer pancake batter to the",
+            ". Pancakes are ready to flip when large bubbles can be seen on top."
+        ],
+        "equipment": [
+            "mixing bowl",
+            "griddle"
+        ]
+    },
+    "serving": "Top with fruit and berries or serve with traditional maple syrup.",
+    "notes": "All-purpose flour may be used instead of wheat blend, but decrease the milk by 1/4 C and cut the baking powder by 1/2 tsp. You may also replace the unrefined sugar with brown sugar and yes, regular eggs work too, but at this point you have completely sold out to The Man and may as well just hop in your beemer and drive to some trendy, over-priced, yuppie pancake house and get it over with."
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Homestyle Macaroni And Cheese",
+    "recipeinfo": {
+        "blurb": "Way better than the orange stuff that comes in a box.",
+        "genre": "Comfort food",
+        "author": "David Horton",
+        "source": {
+            "#text": [
+                "Loosely based upon a recipe from the",
+                "cafeteria in Elgin, IL"
+            ],
+            "hyperlink": {
+                "@url": "http://www.shermanhospital.com/",
+                "#text": "Sherman Hospital"
+            }
+        },
+        "yield": "6 servings",
+        "preptime": "45 minutes"
+    },
+    "ingredientlist": [
+        {
+            "quantity": "8",
+            "unit": "oz.",
+            "fooditem": "elbow macaroni"
+        },
+        {
+            "quantity": "6",
+            "unit": "Tbsp.",
+            "fooditem": "butter"
+        },
+        {
+            "quantity": "1/4",
+            "unit": "C.",
+            "fooditem": "flour"
+        },
+        {
+            "quantity": "2",
+            "unit": "C.",
+            "fooditem": "milk"
+        },
+        {
+            "quantity": "4",
+            "unit": "oz.",
+            "fooditem": "cream cheese"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "tsp.",
+            "fooditem": "salt"
+        },
+        {
+            "quantity": "1/8",
+            "unit": "lb.",
+            "fooditem": "baby Swiss cheese slices"
+        },
+        {
+            "quantity": "1/4",
+            "unit": "lb.",
+            "fooditem": "colby or mild cheddar cheese slices"
+        }
+    ],
+    "preparation": {
+        "text": [
+            "Preheat",
+            "to 450 F. Cook macaroni until it is almost tender. Drain and rinse thorougly with cold water. Melt butter in a",
+            "over medium-low heat. Slowly add flour, stiring constantly, to make a roux. When roux begins to darken in color slowly add the milk and keep stiring even though it may feel as if your arm will fall off at any minute. Add cream cheese and salt stirring until the sauce has a smooth and creamy texture. Fold macaroni into the sauce. Place 1/3 of the macaroni and sauce mixture into a buttered",
+            ". Top with a layer of cheddar cheese slices. Scoop another 1/3 of the macaroni mixture into the pan. Top with baby Swiss slices. Add the remaining macaroni mixture to the pan and top with the last of the cheddar slices. Bake at 450 for 15 minutes or until top begins to brown."
+        ],
+        "equipment": [
+            "oven",
+            "3-quart saucepan",
+            "8 x 8 inch pan"
+        ]
+    },
+    "serving": "Serve alone or with a thick slice of smoked ham. Refrigerate leftovers immediately.",
+    "notes": "It is very important to avoid aged cheeses as these tend to make the sauce gritty. Sharp cheddar or Swiss will ruin the texture."
+}

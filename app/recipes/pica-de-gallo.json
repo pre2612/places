@@ -1,0 +1,46 @@
+{
+    "title": "Pico De Gallo",
+    "recipeinfo": {
+        "blurb": "Great mild dip for tortilla chips.",
+        "genre": "Mexican food",
+        "author": "David Horton",
+        "yield": "Enough for one bag of torilla chips."
+    },
+    "ingredientlist": [
+        {
+            "quantity": "1",
+            "unit": "lb.",
+            "fooditem": "Plum (roma) tomatoes",
+            "#text": ", diced"
+        },
+        {
+            "quantity": "1",
+            "fooditem": "Small onion",
+            "#text": ", diced"
+        },
+        {
+            "quantity": "1",
+            "unit": "large handful",
+            "fooditem": "cilantro",
+            "#text": ", chopped with stems removed"
+        },
+        {
+            "#text": "Juice from",
+            "quantity": "1",
+            "fooditem": "lime"
+        },
+        {
+            "fooditem": "Salt",
+            "#text": "to taste"
+        }
+    ],
+    "preparation": {
+        "text": [
+            "Combine all ingredients in a",
+            ". Cover and refrigerate for at least one hour to give the flavors time to mingle."
+        ],
+        "equipment": "bowl"
+    },
+    "serving": "Serve with tortilla chips for a tongue-tingling appetizer. Pico de gallo may also be used as a topping for tacos or quesadillas.",
+    "notes": "Adding some minced jalapeno pepper will give the recipe a little kick."
+}

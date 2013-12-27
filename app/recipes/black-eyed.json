@@ -1,0 +1,80 @@
+{
+    "title": "Blackeyed Peas",
+    "recipeinfo": {
+        "blurb": "Good Southern Cooking",
+        "author": "David Horton",
+        "yield": "6 servings",
+        "preptime": "4 hours"
+    },
+    "ingredientlist": [
+        {
+            "quantity": "8",
+            "unit": "oz.",
+            "fooditem": "dry blackeyed peas"
+        },
+        {
+            "quantity": "5",
+            "unit": "C.",
+            "fooditem": "water"
+        },
+        {
+            "quantity": "2",
+            "unit": "cloves",
+            "fooditem": "garlic",
+            "#text": ", minced"
+        },
+        {
+            "quantity": "3",
+            "unit": "ribs",
+            "fooditem": "celery",
+            "#text": ", chopped"
+        },
+        {
+            "quantity": "1",
+            "fooditem": "small onion",
+            "#text": ", chopped"
+        },
+        {
+            "quantity": "1",
+            "fooditem": "green pepper",
+            "#text": ", chopped"
+        },
+        {
+            "quantity": "3",
+            "fooditem": "plum (roma) tomatoes",
+            "#text": ", chopped"
+        },
+        {
+            "quantity": "4",
+            "fooditem": "okra",
+            "#text": ", sliced"
+        },
+        {
+            "quantity": "2",
+            "unit": "C.",
+            "fooditem": "chicken or vegetable stock"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "tsp.",
+            "fooditem": "cayenne pepper"
+        },
+        {
+            "fooditem": "Salt",
+            "#text": "to taste"
+        }
+    ],
+    "preparation": {
+        "text": [
+            "Rinse blackeyed peas. Combine blackeyed peas and 5 C. of water in a",
+            ". Bring to a boil then remove from heat, cover and let stand for 2 hours. Drain water from blackeyed peas in a",
+            "and rinse out the saucepan. Combine garlic, celery, onion and green pepper in the saucepan and sweat over medium-low heat. Stir occasionally. After a minute or so add the okra and tomatoes and cayenne pepper. Continue cooking until the tomatoes become soft. Stir 2 C. of stock and blackeyed peas into the mixture and reduce heat to low. Simmer for 2 hours or until blackeyed peas are tender. Before serving add salt to taste."
+        ],
+        "equipment": [
+            "3-quart saucepan",
+            "large strainer or colander"
+        ]
+    },
+    "serving": "Serve over rice.",
+    "notes": "This recipe reheats very well making it easy to prepare a large batch and freeze portions for quick meals later on."
+}

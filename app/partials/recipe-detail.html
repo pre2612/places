@@ -1,0 +1,40 @@
+<div class="container">
+<h1>{{recipe.title}}</h1>
+
+<p>
+<h2>Ingredients</h2>
+<table class="table table-hover">
+    <tr>
+        <th>Food Item</th>
+        <th>Quantity</th>
+        <th>Unit</th>
+    </tr>
+    <tr ng-repeat="ingredient in ingredient">
+        <!--<td>{{ingredient}}</td>-->
+        <td>{{ingredient.fooditem}}</td>
+        <td>{{ingredient.quantity}}</td>
+        <td>{{ingredient.unit}}</td>
+    </tr>
+</table>
+</p>
+<p>
+    <h4>Preparation:</h4>
+    <ul class="unstyled">
+        <li ng-repeat="t in [0,1]">{{recipe.preparation.text[t]}}</li>
+    </ul>
+
+</p>
+<p>
+    <h4>Equipment:</h4>
+    {{recipe.preparation.equipment}}
+</p>
+<p>
+    <h4>Serving:</h4>
+    {{recipe.serving}}
+</p>
+<p>
+    <h4>Notes:</h4>
+    {{recipe.notes}}
+</p>
+
+</div>
