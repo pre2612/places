@@ -1,0 +1,15 @@
+<header>
+    Search: <input ng-model="query">
+    Sort by:
+    <select ng-model="orderProp">
+        <option value="name">Alphabetical</option>
+        <option value="age">Newest</option>
+    </select>
+</header>
+<section controller="SearchCtrl">
+    <aside>
+        <ul class="unstyled">
+            <li ng-repeat="datas in data | orderBy:'title' | filter: query"><a href="">{{datas.title}}</a></li>
+        </ul>
+    </aside>
+</section>

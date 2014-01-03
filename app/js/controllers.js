@@ -1,15 +1,13 @@
 'use strict';
 
-var phonecatControllers = angular.module('phonecatControllers',[]);
+var placesearchControllers = angular.module('placesearchControllers',[]);
 
-phonecatControllers.controller('RecipeListCtrl',['$scope','Recipe',function($scope,Recipe){
-    $scope.recipes = Recipe.query();
-    $scope.orderProp = 'age';
+placesearchControllers.controller('',['$scope',function($scope){
+
 }]);
 
-phonecatControllers.controller('RecipeDetailCtrl',['$scope','Recipe','$routeParams',function($scope,Recipe,$routeParams){
-    $scope.recipe = Recipe.get({recipeId: $routeParams.recipeId},function(recipe){
-        $scope.ingredient = recipe.ingredientlist;
-        $scope.preparation = recipe.preparation.text;
+placesearchControllers.controller('SearchCtrl',['$scope','Places',function($scope,Places,$routeParams){
+    Places.get(function(data){
+        $scope.data = data.data;
     });
 }]);

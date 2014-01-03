@@ -1,10 +1,8 @@
 'use strict';
 
 
-var phonecatServices = angular.module('phonecatServices',['ngResource']);
+var placesearchServices = angular.module('placesearchServices',['ngResource']);
 
-phonecatServices.factory('Recipe',['$resource',function($resource){
-    return $resource('recipes/:recipeId.json',{},{
-        query: {method:'GET', params: {recipeId:'recipes'},isArray: true}
-    });
+placesearchServices.factory('Places',['$resource',function($resource){
+    return $resource('data/places.json');
 }]);

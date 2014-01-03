@@ -1,22 +1,23 @@
 'use strict';
 
-var phonecatApp = angular.module('phonecatApp',[
+var placesearchApp = angular.module('placesearchApp',[
 'ngRoute',
- 'phonecatControllers',
- 'phonecatServices'
+ 'placesearchControllers',
+ 'placesearchServices'
+
 ]);
 
-phonecatApp.config(['$routeProvider',
+placesearchApp.config(['$routeProvider',
 function($routeProvider){
-    $routeProvider.when('/recipes',{
-        templateUrl: 'partials/recipe-list.html',
-        controller: 'RecipeListCtrl'
+    $routeProvider.when('/zipcode',{
+        templateUrl: 'partials/zipcode.html',
+        controller: 'ZipCtrl'
     }).
-    when('/recipes/:recipeId',{
-        templateUrl: 'partials/recipe-detail.html',
-        controller: 'RecipeDetailCtrl'
-   }).
+    when('/zipcode/:zipcode',{
+       templateUrl:'partials/search.html',
+       controller: 'SearchCtrl'
+    })
     otherwise({
-        redirectTo: '/recipes'
+        redirectTo: '/zipcode'
    });
 }]);
